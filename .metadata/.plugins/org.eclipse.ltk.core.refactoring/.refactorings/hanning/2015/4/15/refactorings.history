@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;test1235.java&apos; to &apos;老师的CODES/src&apos;&#x0D;&#x0A;－ 原始项目：“hanning”&#x0D;&#x0A;－ 目标元素：“老师的CODES/src”&#x0D;&#x0A;－ 原始元素：“test1235.java”" description="复制编译单元" destination="=老师的CODES/src" element1="/src&lt;{test1235.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1428420176157" units="1" version="1.0"/>
+</session>

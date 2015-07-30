@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将编译单元“test.java”重命名为“P2_3.java”&#x0D;&#x0A;－ 原始项目：“hanning”&#x0D;&#x0A;－ 原始元素：“test.java”&#x0D;&#x0A;－ 重命名的元素：“P2_3.java”" description="重命名编译单元“test.java”" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{test.java" name="P2_3.java" references="false" stamp="1421846055680" version="1.0"/>
+</session>
